@@ -1,0 +1,1 @@
+Réalisation d'un jeu en C avec interface graphique, l'objectif du joueur est de rejoindre l'arrivée sans ce faire attraper par les 2 types de monstres. Le premier type de monstre utilise un déplacement aléatoire et l'autre type de monstre utilise la logique du A* avec de la récursivité.
